@@ -10,7 +10,7 @@ This repository contains the code and resources for the 30-day data science chal
 - **Objective:** Differentiate rocks from mines using machine learning on sonar signals.
 - **Techniques:** Data preprocessing, machine learning modeling.
 - **Tools:** Python, Jupyter Notebooks, scikit-learn.
-- **Repository Content:** [Day 1 Folder](Day%201)
+- **Repository Content:** [Day 1 Folder](Day-01)
 
 ## Getting Started
 To get started with the challenge:
