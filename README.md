@@ -11,6 +11,12 @@ This repository contains the code and resources for the 30-day data science chal
 - **Techniques:** Data preprocessing, machine learning modeling.
 - **Tools:** Python, Jupyter Notebooks, scikit-learn.
 - **Repository Content:** [Day 1 Folder](Day-01)
+  
+### Day 2: Fake News Detection Using Python & Machine Learning
+- **Objective:** Develop a model to differentiate between real and fake news articles using Python and machine learning.
+- **Techniques:** Natural Language Processing (NLP), Feature engineering, Machine learning classification
+- **Tools:** Python, Jupyter Notebooks, scikit-learn, NLTK (Natural Language Toolkit)
+- **Repository Content:** [Day 2 Folder](Day-02)
 
 ## Getting Started
 To get started with the challenge:
