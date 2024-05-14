@@ -18,6 +18,12 @@ This repository contains the code and resources for the 30-day data science chal
 - **Tools:** Python, Jupyter Notebooks, scikit-learn, NLTK (Natural Language Toolkit)
 - **Repository Content:** [Day 2 Folder](Day-02)
 
+### Day 3: House Price Prediction Using XGBoost Regression
+- **Objective:** Fine-tune and evaluate the XGBoost regression model to predict house prices accurately.
+- **Techniques:** Hyperparameter tuning, Model evaluation, Feature importance analysis.
+- **Tools:** Python, Jupyter Notebooks, scikit-learn, XGBoost.
+- **Repository Content:** [Day 3 Folder](Day-03)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
