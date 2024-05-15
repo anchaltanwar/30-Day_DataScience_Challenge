@@ -25,15 +25,11 @@ This repository contains the code and resources for the 30-day data science chal
 - **Repository Content:** [Day 3 Folder](Day-03)
 
 ### Day 4: Credit Card Fraud Detection 
-- **Objective:**
-- -Data preprocessing to handle imbalanced data and outliers
-- Supervised learning algorithms like Random Forest and Logistic Regression
-- Model evaluation using precision, recall, and F1-score
-- Advanced techniques like anomaly detection
-- **Techniques:** Hyperparameter tuning, Model evaluation, Feature importance analysis.
+- **Objective:**Implement machine learning algorithms to accurately identify fraudulent credit card transactions.
+- **Techniques:** Utilizing data preprocessing for handling imbalanced data and outliers, applying supervised learning algorithms such as Random Forest and Logistic Regression, evaluating models with precision, recall, and F1-score, and incorporating advanced anomaly detection techniques.
 - **Tools:** Python, Jupyter Notebooks, scikit-learn, Pandas, NumPy.
 - **Repository Content:** [Day 4 Folder](Day-04)
-- **Data Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+- **Data Source:** [data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download/)
 
 
 ## Getting Started
