@@ -24,6 +24,18 @@ This repository contains the code and resources for the 30-day data science chal
 - **Tools:** Python, Jupyter Notebooks, scikit-learn, XGBoost.
 - **Repository Content:** [Day 3 Folder](Day-03)
 
+### Day 4: Credit Card Fraud Detection 
+- **Objective:**
+- -Data preprocessing to handle imbalanced data and outliers
+- Supervised learning algorithms like Random Forest and Logistic Regression
+- Model evaluation using precision, recall, and F1-score
+- Advanced techniques like anomaly detection
+- **Techniques:** Hyperparameter tuning, Model evaluation, Feature importance analysis.
+- **Tools:** Python, Jupyter Notebooks, scikit-learn, Pandas, NumPy.
+- **Repository Content:** [Day 4 Folder](Day-04)
+- **Data Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
