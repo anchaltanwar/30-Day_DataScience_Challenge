@@ -31,6 +31,12 @@ This repository contains the code and resources for the 30-day data science chal
 - **Repository Content:** [Day 4 Folder](Day-04)
 - **Data Source:** [data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download/)
 
+### Day 5: Image Data Processing for Deep Learning
+- **Objective:** Harness the power of Python to preprocess image data for deep learning applications.
+- **Techniques:** Image preprocessing techniques for scaling, normalization, and augmentation; utilizing deep learning frameworks like TensorFlow and PyTorch for efficient image processing; evaluating model performance with accuracy, precision, recall, and confusion matrices; exploring advanced applications in computer vision and image recognition.
+- **Tools:** Python, Jupyter Notebooks, TensorFlow, PyTorch, OpenCV, scikit-image.
+- **Repository Content:** [Day 5 Folder](Day-05)
+
 
 ## Getting Started
 To get started with the challenge:
