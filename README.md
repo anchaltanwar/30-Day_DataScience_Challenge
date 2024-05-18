@@ -25,7 +25,7 @@ This repository contains the code and resources for the 30-day data science chal
 - **Repository Content:** [Day 3 Folder](Day-03)
 
 ### Day 4: Credit Card Fraud Detection 
-- **Objective:**Implement machine learning algorithms to accurately identify fraudulent credit card transactions.
+- **Objective:** Implement machine learning algorithms to accurately identify fraudulent credit card transactions.
 - **Techniques:** Utilizing data preprocessing for handling imbalanced data and outliers, applying supervised learning algorithms such as Random Forest and Logistic Regression, evaluating models with precision, recall, and F1-score, and incorporating advanced anomaly detection techniques.
 - **Tools:** Python, Jupyter Notebooks, scikit-learn, Pandas, NumPy.
 - **Repository Content:** [Day 4 Folder](Day-04)
