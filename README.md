@@ -37,13 +37,22 @@ This repository contains the code and resources for the 30-day data science chal
 - **Tools:** Python, Jupyter Notebooks, TensorFlow, PyTorch, OpenCV, scikit-image.
 - **Repository Content:** [Day 5 Folder](Day-05)
 
-### Day 5: Sentiment Analysis with LSTM Networks on IMDB Reviews
+### Day 6: Sentiment Analysis with LSTM Networks on IMDB Reviews
 - **Objective:** Unleash the potential of Long Short-Term Memory (LSTM) networks for sentiment analysis on IMDB movie reviews.
 - **Techniques:** Data preprocessing: Cleaning, tokenization, and padding sequences.
 Model building: Constructing LSTM networks with embedding layers and configuring hyperparameters.
 Model training and evaluation: Splitting data, monitoring performance, and assessing accuracy with metrics like loss and accuracy.
 - **Tools:** Python, Jupyter Notebooks, TensorFlow/Keras, NLTK.
 - **Repository Content:** [Day 6 Folder](Day-06)
+
+### Day 7: Building a Conversational Chatbot using OpenAI's GPT-4 API with Streamlit 
+- **Objective:** Create a conversational chatbot using OpenAI's GPT-4 API, seamlessly integrated into a Streamlit web app to showcase the potential of GPT-4 in generating human-like responses and the simplicity of Streamlit for building interactive web applications. 
+- **Techniques:** API Integration: Connecting to the OpenAI GPT-4 API.
+Web App Development: Using Streamlit to create an interactive user interface.
+Conversation Management: Handling user inputs and generating dynamic responses.
+Deployment: Running the web app locally or deploying it to a cloud service
+- **Tools:** Python, Streamlit, OpenAI GPT-4 API
+- **Repository Content:** [Day 7 Folder](Day-07)
 
 
 ## Getting Started
