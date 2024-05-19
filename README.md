@@ -54,6 +54,13 @@ Deployment: Running the web app locally or deploying it to a cloud service
 - **Tools:** Python, Streamlit, OpenAI GPT-4 API
 - **Repository Content:** [Day 7 Folder](Day-07)
 
+### Day 8: Bank Loan Prediction
+- **Objective:** Develop a web app to predict bank loan approvals using historical data and machine learning.
+- **Techniques:** Data Preprocessing: Handle missing values, encode categorical data, scale features.
+Machine Learning: Train and evaluate a Logistic Regression model.
+Web Development: Create an interactive user interface with Streamlit.
+- **Tools:** Python, Pandas, Scikit-learn, Streamlit.
+- **Repository Content:** [Day 8 Folder](Day-08)
 
 ## Getting Started
 To get started with the challenge:
