@@ -62,6 +62,15 @@ Web Development: Create an interactive user interface with Streamlit.
 - **Tools:** Python, Pandas, Scikit-learn, Streamlit.
 - **Repository Content:** [Day 8 Folder](Day-08)
 
+### Day 9: Predicting Breast Cancer with Neural Networks in PyTorch 
+- **Objective:**Delve into predicting breast cancer using neural networks with PyTorch in our latest project.
+- **Techniques:** Data Preprocessing: Handle and prepare the data for training.
+Model Architecture: Design and implement an effective neural network.
+Training: Train the model for accurate predictions.
+Evaluation: Assess the model's performance.
+- **Tools:** Python, PyTorch.
+- **Repository Content:** [Day 9 Folder](Day-09)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
