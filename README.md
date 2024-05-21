@@ -63,13 +63,21 @@ Web Development: Create an interactive user interface with Streamlit.
 - **Repository Content:** [Day 8 Folder](Day-08)
 
 ### Day 9: Predicting Breast Cancer with Neural Networks in PyTorch 
-- **Objective:**Delve into predicting breast cancer using neural networks with PyTorch in our latest project.
+- **Objective:** Delve into predicting breast cancer using neural networks with PyTorch in our latest project.
 - **Techniques:** Data Preprocessing: Handle and prepare the data for training.
 Model Architecture: Design and implement an effective neural network.
 Training: Train the model for accurate predictions.
 Evaluation: Assess the model's performance.
 - **Tools:** Python, PyTorch.
 - **Repository Content:** [Day 9 Folder](Day-09)
+
+### Day 10: Chatbot with Google's Gemini Pro API using Streamlit 
+- **Objective:** This project builds a chatbot web app using Google's Gemini Pro API for conversation and Streamlit for the user interface.
+- **Techniques:** API Integration: Connecting to Google's Gemini Pro API for robust conversational capabilities.
+Building the Web App: Setting up Streamlit for a responsive and interactive user interface.
+User Experience Design: Ensuring smooth and intuitive interactions within the chatbot interface.
+- **Tools:** Python, Streamlit, Google's Gemini Pro API, Requests Library.
+- **Repository Content:** [Day 10 Folder](Day-10)
 
 ## Getting Started
 To get started with the challenge:
