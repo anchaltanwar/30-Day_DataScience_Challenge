@@ -79,6 +79,12 @@ User Experience Design: Ensuring smooth and intuitive interactions within the ch
 - **Tools:** Python, Streamlit, Google's Gemini Pro API, Requests Library.
 - **Repository Content:** [Day 10 Folder](Day-10)
 
+### Day 11: Dog vs Cat Classification System using Transfer Learning 
+- **Objective:** This project aims to classify dogs and cats in images using transfer learning. A pre-trained MobileNet V2 model will be used for fast and accurate image classification.
+- **Techniques:** This project builds a dog vs cat classifier using a pre-trained MobileNet V2 for speed and efficiency. It involves data prep (resizing, normalization, augmentation), fine-tuning the model, and evaluating its performance with various metrics.
+- **Tools:** Python, TensorFlow/Keras, MobileNet V2, NumPy and Pandas, Matplotlib for Visualization.
+- **Repository Content:** [Day 11 Folder](Day-11)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
