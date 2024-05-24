@@ -95,6 +95,15 @@ Model Evaluation: Using accuracy, precision, recall, and ROC-AUC to assess model
 - **Repository Content:** [Day 12 Folder](Day-12)
 - **Data Source:** [data](https://www.kaggle.com/c/titanic/data)
 
+### Day 13: Spam Mail Prediction System
+- **Objective:** Develop a robust Spam Mail prediction system using machine learning and natural language processing techniques to effectively identify and filter out spam emails.
+- **Techniques:** Natural Language Processing (NLP): Utilizing text processing techniques to handle email content.
+Feature Engineering: Extracting meaningful features from email text to enhance model performance.
+Model Selection: Implementing various machine learning algorithms to find the most effective model.
+Evaluation and Metrics: Assessing model accuracy with precision, recall, and F1 score, and refining it for optimal results.
+- **Tools:** Python, Scikit-learn, NLTK and SpaCy, Pandas, NumPy , Matplotlib, Seaborn 
+- **Repository Content:** [Day 13 Folder](Day-13)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
