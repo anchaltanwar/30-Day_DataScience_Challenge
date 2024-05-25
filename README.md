@@ -112,7 +112,7 @@ Model Selection: Applying different machine learning models to find the best fit
 Evaluation and Metrics: Using RMSE, MAE, and R² to evaluate and refine model performance.
 - **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib and Seaborn.
 - **Repository Content:** [Day 14 Folder](Day-14)
-- **Data Source:** [data]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009))
+- **Data Source:** [data](https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ## Getting Started
 To get started with the challenge:
