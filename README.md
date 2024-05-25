@@ -127,5 +127,5 @@ Contributions are welcome! If you have suggestions for improvements, new project
 A big thank you to everyone participating in this challenge! Let's learn, grow, and conquer the world of data science together!
 
 ## Connect with Us
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anchal-singh-tanwar-858b21228/)
+- LinkedIn: [Anchal Singh Tanwar ](https://www.linkedin.com/in/anchal-singh-tanwar-858b21228/)
 
