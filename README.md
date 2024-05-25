@@ -104,6 +104,16 @@ Evaluation and Metrics: Assessing model accuracy with precision, recall, and F1 
 - **Tools:** Python, Scikit-learn, NLTK and SpaCy, Pandas, NumPy , Matplotlib, Seaborn 
 - **Repository Content:** [Day 13 Folder](Day-13)
 
+### Day 14: Wine Quality Prediction
+- **Objective:** Create a Wine Quality prediction system using machine learning to accurately assess and classify wine based on various chemical properties.
+- **Techniques:** Data Preprocessing: Cleaning and preparing the wine dataset for analysis.
+Feature Engineering: Extracting key features that influence wine quality.
+Model Selection: Applying different machine learning models to find the best fit for our data.
+Evaluation and Metrics: Using RMSE, MAE, and R² to evaluate and refine model performance.
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib and Seaborn.
+- **Repository Content:** [Day 14 Folder](Day-14)
+- **Data Source:** [data]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009))
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
