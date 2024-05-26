@@ -114,6 +114,15 @@ Evaluation and Metrics: Using RMSE, MAE, and R² to evaluate and refine model pe
 - **Repository Content:** [Day 14 Folder](Day-14)
 - **Data Source:** [data](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
+### Day 15: Heart Disease Prediction
+- **Objective:** Develop a reliable Heart Disease prediction system using machine learning to assist in early diagnosis and treatment planning based on patient data.
+- **Techniques:** Data Preprocessing: Clean and prepare patient data.
+Feature Engineering: Identify key features influencing heart disease.
+Model Selection: Apply and evaluate various machine learning models.
+Evaluation and Metrics: Use accuracy, precision, recall, and ROC-AUC scores to assess performance.
+- **Tools:** Python, Scikit-learn, Pandas and NumPy, Matplotlib and Seaborn for Visualization.
+- **Repository Content:** [Day 15 Folder](Day-15)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
