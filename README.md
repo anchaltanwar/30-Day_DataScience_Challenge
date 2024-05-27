@@ -123,6 +123,16 @@ Evaluation and Metrics: Use accuracy, precision, recall, and ROC-AUC scores to a
 - **Tools:** Python, Scikit-learn, Pandas and NumPy, Matplotlib and Seaborn for Visualization.
 - **Repository Content:** [Day 15 Folder](Day-15)
 
+### Day 16: Customer Segmentation System using K-Means Clustering
+- **Objective:** To develop a Customer Segmentation system using K-Means clustering to categorize customers based on purchasing behavior, enabling targeted marketing strategies.
+- **Techniques:** Data Preprocessing: Cleaning and preparing customer data for analysis.
+Feature Engineering: Extracting and selecting relevant features that influence customer segmentation.
+Clustering with K-Means: Implementing the K-Means algorithm to identify customer segments.
+Evaluation and Metrics: Using silhouette scores and elbow method to validate and refine clusters.
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 16 Folder](Day-16)
+- **Data Source:** [data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
