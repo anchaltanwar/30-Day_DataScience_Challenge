@@ -133,6 +133,16 @@ Evaluation and Metrics: Using silhouette scores and elbow method to validate and
 - **Repository Content:** [Day 16 Folder](Day-16)
 - **Data Source:** [data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
+### Day 17: Sales Dashboard (PowerBI)
+- **Objective:** Conduct a comprehensive E-Commerce Sales Analysis using Power BI to gain insights into sales performance and customer behavior for informed business decisions.
+- **Techniques:** Data Collection: Gathering sales data from various e-commerce platforms.
+Data Cleaning: Preparing and refining the dataset for analysis.
+Data Modeling: Structuring data for effective visualization and analysis.
+Interactive Dashboards: Creating dynamic and interactive dashboards to explore sales metrics.
+Insights and Reporting: Identifying key insights and generating comprehensive reports.
+- **Tools:** Power BI
+- **Repository Content:** [Day 17 Folder](Day-17)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
