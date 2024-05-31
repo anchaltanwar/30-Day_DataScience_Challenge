@@ -144,12 +144,18 @@ Insights and Reporting: Identifying key insights and generating comprehensive re
 - **Repository Content:** [Day 17 Folder](Day-17)
 
 ### Day 18: Data Analytics Project using Python and SQL
-- **Objective:** Conduct a comprehensive data analytics project using Python and SQL, guided by @Ankit Bansal, to acquire, process, and analyze datasets from Kaggle.
+- **Objective:** Conduct a comprehensive data analytics project using Python and SQL, to acquire, process, and analyze datasets from Kaggle.
 - **Techniques:** Data Acquisition: Kaggle API for dataset download.
 Data Processing: Pandas for cleaning and preparation.
 Data Loading: SQL Server for database storage and analysis.
 - **Tools:** Python, Kaggle API, Pandas, SQL Server.
 - **Repository Content:** [Day 18 Folder](Day-18)
+
+### Day 19: Sales Analysis
+- **Objective:** Perform a comprehensive sales analysis using Python and Tableau to uncover insights and trends that inform business decisions.
+- **Techniques:** Data Collection, Data Cleaning, Data Modeling, Insights and Reporting. 
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 19 Folder](Day-19)
 
 ## Getting Started
 To get started with the challenge:
