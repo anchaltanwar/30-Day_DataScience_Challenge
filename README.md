@@ -157,6 +157,12 @@ Data Loading: SQL Server for database storage and analysis.
 - **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn.
 - **Repository Content:** [Day 19 Folder](Day-19)
 
+### Day 20: Text Extraction Project
+- **Objective:** Extract and preprocess text from images and scanned documents using Pytesseract to automate and streamline data entry tasks.
+- **Techniques:** Data Collection, Data Cleaning, Automation. 
+- **Tools:** Python, Pytesseract.
+- **Repository Content:** [Day 20 Folder](Day-20)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
