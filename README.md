@@ -166,7 +166,7 @@ Data Loading: SQL Server for database storage and analysis.
 ### Day 21: Fashion MNIST Image Classification
 - **Objective:** Develop a CNN-based model to classify fashion items from the Fashion MNIST dataset with high accuracy.
 - **Techniques:** Data Preprocessing, Model Building, Model Evaluation.
-- **Tools:** Python, TensorFlow, Pandas, NumPy, Matplotlib.
+- **Tools:** Python, TensorFlow, Streamlit, Pandas, NumPy, Matplotlib.
 - **Repository Content:** [Day 21 Folder](Day-21)
 
 ## Getting Started
