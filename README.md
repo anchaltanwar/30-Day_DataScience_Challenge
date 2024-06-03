@@ -163,6 +163,12 @@ Data Loading: SQL Server for database storage and analysis.
 - **Tools:** Python, Pytesseract.
 - **Repository Content:** [Day 20 Folder](Day-20)
 
+### Day 21: Fashion MNIST Image Classification
+- **Objective:** Develop a CNN-based model to classify fashion items from the Fashion MNIST dataset with high accuracy.
+- **Techniques:** Data Preprocessing, Model Building, Model Evaluation.
+- **Tools:** Python, TensorFlow, Pandas, NumPy, Matplotlib.
+- **Repository Content:** [Day 21 Folder](Day-21)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
