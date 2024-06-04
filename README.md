@@ -169,6 +169,13 @@ Data Loading: SQL Server for database storage and analysis.
 - **Tools:** Python, TensorFlow, Streamlit, Pandas, NumPy, Matplotlib.
 - **Repository Content:** [Day 21 Folder](Day-21)
 
+### Day 22: Loan Prediction System
+- **Objective:** Build a Python system that analyzes borrower data to predict loan eligibility using machine learning.
+- **Techniques:** Data Preprocessing, Feature Engineering, Model Building & Training, Model Evaluation. 
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Sklearn and Seaborn.
+- **Repository Content:** [Day 22 Folder](Day-22)
+- **Data Source:** [data](https://www.kaggle.com/datasets/ninzaami/loan-predication)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
