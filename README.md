@@ -176,6 +176,16 @@ Data Loading: SQL Server for database storage and analysis.
 - **Repository Content:** [Day 22 Folder](Day-22)
 - **Data Source:** [data](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 
+### Day 23: Car Price Prediction
+- **Objective:** Build a machine learning model to predict car prices accurately based on various features and specifications.
+- **Techniques:** Data Preprocessing: Cleaning and preparing the car dataset for analysis.
+Feature Engineering: Selecting and transforming key features that influence car prices.
+Model Building: Implementing and comparing different machine learning models to find the best predictor.
+Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine model performance.
+- **Tools:** Python, Scikit-learn, Pandas and NumPy, Matplotlib and Seaborn.
+- **Repository Content:** [Day 23 Folder](Day-23)
+- **Data Source:** [data](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
