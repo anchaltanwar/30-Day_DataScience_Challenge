@@ -186,6 +186,13 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Repository Content:** [Day 23 Folder](Day-23)
 - **Data Source:** [data](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
+### Day 24: Medical Insurance Cost Prediction
+- **Objective:** To build a machine learning model to predict medical insurance costs accurately based on various health and demographic factors.
+- **Techniques:** Data Preprocessing, Feature Engineering, Model Building, Model Evaluation.
+- **Tools:** Python, Scikit-learn, Pandas and NumPy, Matplotlib and Seaborn.
+- **Repository Content:** [Day 24 Folder](Day-24)
+- **Data Source:** [data](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
