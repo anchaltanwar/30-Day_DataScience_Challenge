@@ -193,6 +193,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Repository Content:** [Day 24 Folder](Day-24)
 - **Data Source:** [data](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
+### Day 25: CIFAR-10 Object Recognition System
+- **Objective:** Develop a CIFAR-10 Object Recognition system using ResNet50 with Transfer Learning to achieve high accuracy in identifying various objects.
+- **Techniques:** Data Preprocessing, Transfer Learning, Model Fine-Tuning, Evaluation.
+- **Tools:** Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn.
+- **Repository Content:** [Day 25 Folder](Day-25)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
