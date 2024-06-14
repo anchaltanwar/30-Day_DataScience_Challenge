@@ -199,6 +199,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Tools:** Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn.
 - **Repository Content:** [Day 25 Folder](Day-25)
 
+### Day 26: Music Genre Classification
+- **Objective:** Build a machine learning model to classify music tracks into genres based on extracted audio features.
+- **Techniques:** Data Preprocessing, Feature Extraction, Model Building, Model Evaluation.
+- **Tools:** Python, LibROSA, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 26 Folder](Day-26)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
