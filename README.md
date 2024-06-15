@@ -205,6 +205,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Tools:** Python, LibROSA, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 - **Repository Content:** [Day 26 Folder](Day-26)
 
+### Day 27: Weather Dataset Analysis
+- **Objective:** Analyze and predict weather conditions using historical data and machine learning models to improve forecasting accuracy.
+- **Techniques:** Data Preprocessing, Feature Engineering, Model Building, Model Evaluation.
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 27 Folder](Day-27)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
