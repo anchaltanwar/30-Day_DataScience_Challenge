@@ -211,6 +211,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 - **Repository Content:** [Day 27 Folder](Day-27)
 
+### Day 28: Audi Price Prediction 
+- **Objective:** Build a machine learning model to predict Audi car prices accurately based on various features and specifications.
+- **Techniques:** Data Preprocessing, Feature Engineering, Model Building, Model Evaluation.
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 28 Folder](Day-28)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
