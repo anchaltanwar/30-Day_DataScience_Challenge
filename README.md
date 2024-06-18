@@ -217,6 +217,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 - **Repository Content:** [Day 28 Folder](Day-28)
 
+### Day 29: Adult Income Prediction 
+- **Objective:** Build a machine learning model to predict whether an individual's income exceeds $50K annually based on demographic and work-related features.
+- **Techniques:** Data Preprocessing, Feature Engineering, Model Building, Model Evaluation.
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Repository Content:** [Day 29 Folder](Day-29)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
