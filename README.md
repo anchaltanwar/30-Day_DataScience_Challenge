@@ -223,6 +223,12 @@ Model Evaluation: Using metrics such as RMSE, MAE, and R² to assess and refine 
 - **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 - **Repository Content:** [Day 29 Folder](Day-29)
 
+### Day 30: Shortest Path Finder 
+- **Objective:** Develop a system to find the shortest paths between nodes in a graph using advanced graph algorithms for applications in navigation and network optimization.
+- **Techniques:** Data Representation, Algorithm Implementation, Optimization, Visualization.
+- **Tools:** Python.
+- **Repository Content:** [Day 30 Folder](Day-30)
+
 ## Getting Started
 To get started with the challenge:
 1. Clone this repository to your local machine.
